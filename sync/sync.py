@@ -26,6 +26,38 @@ channels = [
     "UCG0rzBZV_QMP4MtWg6IjhEA",  # Shu
     "UCIM92Ok_spNKLVB5TsgwseQ",  # Mysta
 
+    "UCGhqxhovNfaPBpxfCruy9EA", # Fulgur
+    "UChJ5FTsHOu72_5OVx0rvsvQ", # Uki
+    "UCQ1zGxHrfEmmW4CPpBx9-qw", # Alban
+    "UCuuAb_72QzK0M1USPMEl1yw", # Sonny
+    "UCSc_KzY_9WYAx9LghggjVRA", # Yugo
+
+    "UCFgXWZOUZA2oYHNr6qDmsTQ", # Scarle
+    "UCKu59gTZ_rdEmerdx5rV4Yg", # Ren
+    "UCN68LoM3khS4gdBMiWJO8WA", # Aia
+    "UCpzxZW5kghGnO5TmAFJQAVw", # Aster
+    "UCwaS8_S7kMiKA3izlTWHbQg", # Maria
+    "UCsb-1aJgiJXJH2feV-zlZRw", # Kyo
+
+    "UCggO2c1unS-oLwTLT0ICywg", # Kotoka
+    "UChKXd7oqD18qiIYBoRIHTlw", # Meloco
+    "UCO8WcDsF5znr-qsXlzZNpqg", # Ver
+    "UCy91xBlY_Brh3bnHxKtjrrg", # Doppio
+    "UCz_ZRw6ak4Foy8zZy0kEprQ", # Hex
+    "UCIairB9UMDvqSKfMdv1jmjg", # Zaion
+
+    "UCK9l6rTwU3hiSZijIMq51Gw", # Vezalius
+    "UCKpKC3M5fkcEvtOr06dmYlA", # Yu
+    "UCpYf6C9QsP_BRf97vLuXlIA", # Vantacrow
+
+    "UCdh-YF2gTzqDNu0VU9lwPPw", # Claude
+    "UChTA8kHyInr2rKZ2aBv5ULw", # Victoria
+    "UCwqtK-m6954_aHEvOYtZpyQ", # Kunai
+
+    "UCIzZDiilcPv0wim_MbuizFA", # Ryoma
+    "UCQYwIUCLqFoin7lHKmePjJw", # Klara
+    "UCUI1qpjJSEbgzdlwmpdVmMw", # Twisty
+
     "UC-JSeFfovhNsEhftt1WHMvg",  # Official En
 ]
 
